@@ -1,7 +1,5 @@
 # Python Training  
 
-## This is a repository of python training from the video of **Mosh Hamedani** that is available of youtube.
-
 ## The title of the video is : 
 > Python Tutorial - Python for Beginners [Full Course]
 
